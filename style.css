@@ -1,0 +1,47 @@
+*{
+    font-size: 22px;
+    margin: 25px;
+}
+.primerio-titulo{
+text-align: center;
+}
+.cavalo-de-troia{
+     color:red;
+    text-align:left;
+}
+.txt-cavalo-de-troia{
+color:red;
+    text-align:justify;
+}
+.cavalo-img{
+    text-align: center;
+}
+.malware{
+    text-align: left;
+    color: darkcyan;
+}
+.malware-cor{
+    color: rgb(3, 88, 88);
+    background-color: aqua;
+}
+.malware-txt{
+    text-align: justify;
+    color: rgb(3, 88, 88);;
+}
+.malware-img{
+    text-align: center;
+}
+.virus{
+    text-align: left;
+    color: rgb(4, 4, 128);
+}
+.virus-txt{
+    color: rgb(88, 88, 235);
+}
+.virus-img{
+    text-align: center;
+}
+.virus-cor{
+    background-color: rgb(62, 255, 62);
+    color: rgb(88, 88, 235);;
+}
